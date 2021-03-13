@@ -25,8 +25,6 @@ if (envioUser) {
         alert("acceso denegado")
       }
 
-
-// console.log("si wey");
 }else{
     alert("usuario y la clave incorrecta")
 }
