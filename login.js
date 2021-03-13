@@ -1,3 +1,4 @@
+//inicio
 // indtrucción al programa
 let usuario =["pedro","luis","marco"]
 let contraseña=["123","789"]
@@ -29,3 +30,4 @@ if (envioUser) {
 }else{
     alert("usuario y la clave incorrecta")
 }
+//fin
